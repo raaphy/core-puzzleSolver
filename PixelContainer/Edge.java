@@ -79,7 +79,6 @@ public class Edge {
             if(i > normalized.length/10 && result/ (i+1) > 500) {
             	return Float.MAX_VALUE;
             }
-            System.out.println(x);
             
         }
         result = result / normalized.length;
