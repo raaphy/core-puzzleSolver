@@ -20,9 +20,7 @@ public class PuzzleSolver {
 
     public void setImageArray(int[][] imageArray) {
         this.imageArray = imageArray;
-        for(int i = 0; i != 2; i = i) {
-        	
-        }
+   
     }
 
 
